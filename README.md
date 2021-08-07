@@ -1,1 +1,1 @@
-# google-homepage
+Responsive recreation of the Google homepage
