@@ -28,7 +28,9 @@ body{
 	text-decoration: none;
 	color: #222;
 }
-
+.header-link:hover{
+	text-decoration: underline;
+}
 .apps{
 	padding: 5px;
 }
@@ -117,7 +119,9 @@ input#searchbar.bar{
 	text-decoration: none;
 	color: #707579;
 }
-
+.footer-link:hover{
+	text-decoration: underline;
+}
 .footer{
 	box-sizing: border-box;
 	position: fixed;
